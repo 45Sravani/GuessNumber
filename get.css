@@ -1,0 +1,32 @@
+.container-box{
+    height: 300px;
+    width: 100px;
+}
+
+.row-box{
+    height: 400px;
+    width: 500px; 
+    background-color:gold;
+    border-radius: 5px;
+    
+ 
+}
+
+.first-line{
+    font-size: 20px;
+    font-family: 'Lucida Sans';
+    color:dodgerblue;
+
+}
+
+.heading-line{
+    font-family: 'Lucida Sans';
+}
+
+.user{
+  border-width: 2px;
+}
+
+.button{
+    background-color: cadetblue;
+}
